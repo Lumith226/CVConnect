@@ -80,9 +80,9 @@
         </dependency>
 
         <dependency>
-            <groupId>nmquan</groupId>
+            <groupId>Lumith226</groupId>
             <artifactId>common-lib</artifactId>
-            <version>${common-lib.version}</version>
+            <version>1.0.1</version>
         </dependency>
 
         <dependency>
